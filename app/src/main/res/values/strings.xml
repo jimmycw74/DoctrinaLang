@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Doctrina Lang</string>
+    <string name="title_home">numbers</string>
+    <string name="title_dashboard">week</string>
+    <string name="title_notifications">months</string>
+    <string name="title_time">hours</string>
+    <string name="title_settings">settings</string>
+    <!-- novos -->
+    <string name="start">Start</string>
+    <string name="week_01">Monday</string>
+    <string name="week_02">Tuesday</string>
+    <string name="week_03">Wednesday</string>
+    <string name="week_04">Thursday</string>
+    <string name="week_05">Friday</string>
+    <string name="week_06">Saturday</string>
+    <string name="week_07">Sunday</string>
+
+    <string name="month01">January</string>
+    <string name="month02">February</string>
+    <string name="month03">March</string>
+    <string name="month04">April</string>
+    <string name="month05">May</string>
+    <string name="month06">June</string>
+    <string name="month07">July</string>
+    <string name="month08">August</string>
+    <string name="month09">September</string>
+    <string name="month10">October</string>
+    <string name="month11">November</string>
+    <string name="month12">December</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+</resources>

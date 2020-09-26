@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Doctrina Lang</string>
+    <string name="title_home">números</string>
+    <string name="title_dashboard">semana</string>
+    <string name="title_notifications">meses</string>
+    <string name="title_time">horas</string>
+    <string name="title_settings">config</string>
+    <!-- novos -->
+    <string name="start">Começar</string>
+
+    <string name="week_01">Segunda-feira</string>
+    <string name="week_02">Terça-feira</string>
+    <string name="week_03">Quarta-feira</string>
+    <string name="week_04">Quinta-feira</string>
+    <string name="week_05">Sexta-feira</string>
+    <string name="week_06">Sábado</string>
+    <string name="week_07">Domingo</string>
+
+    <string name="month01">Janeiro</string>
+    <string name="month02">Fevereiro</string>
+    <string name="month03">Março</string>
+    <string name="month04">Abril</string>
+    <string name="month05">Maio</string>
+    <string name="month06">Junho</string>
+    <string name="month07">Julho</string>
+    <string name="month08">Agosto</string>
+    <string name="month09">Setembro</string>
+    <string name="month10">Outubro</string>
+    <string name="month11">Novembro</string>
+    <string name="month12">Dezembro</string>
+
+
+</resources>
