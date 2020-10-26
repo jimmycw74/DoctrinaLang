@@ -6,4 +6,7 @@
     <color name="fundoPadrao">#E0F2F1</color>
     <color name="fundoForte">#80CBC4</color>
     <color name="fundoPleno">#BBDEFB</color>
+    <color name="fundoImagem">#afdde9</color>
+
+    <color name="black_overlay">#66000000</color>
 </resources>

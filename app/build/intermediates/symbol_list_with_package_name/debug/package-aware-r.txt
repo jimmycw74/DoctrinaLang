@@ -56,6 +56,12 @@ animator mtrl_fab_hide_motion_spec
 animator mtrl_fab_show_motion_spec
 animator mtrl_fab_transformation_sheet_collapse_spec
 animator mtrl_fab_transformation_sheet_expand_spec
+array french_months
+array french_position
+array french_week
+array german_months
+array german_position
+array german_week
 array reply_entries
 array reply_values
 attr action
@@ -635,6 +641,8 @@ attr maxVelocity
 attr maxWidth
 attr measureWithLargestChild
 attr menu
+attr metaButtonBarButtonStyle
+attr metaButtonBarStyle
 attr mimeType
 attr min
 attr minHeight
@@ -1011,6 +1019,7 @@ color background_floating_material_dark
 color background_floating_material_light
 color background_material_dark
 color background_material_light
+color black_overlay
 color bright_foreground_disabled_material_dark
 color bright_foreground_disabled_material_light
 color bright_foreground_inverse_material_dark
@@ -1074,6 +1083,7 @@ color error_color_material_light
 color foreground_material_dark
 color foreground_material_light
 color fundoForte
+color fundoImagem
 color fundoPadrao
 color fundoPleno
 color highlighted_text_material_dark
@@ -1159,6 +1169,7 @@ color mtrl_textinput_focused_box_stroke_color
 color mtrl_textinput_hovered_box_stroke_color
 color notification_action_color_filter
 color notification_icon_bg_color
+color notification_material_background_media_default_color
 color preference_fallback_accent_color
 color primary_dark_material_dark
 color primary_dark_material_light
@@ -1528,6 +1539,10 @@ dimen preference_icon_minWidth
 dimen preference_seekbar_padding_horizontal
 dimen preference_seekbar_padding_vertical
 dimen preference_seekbar_value_minWidth
+dimen subtitle_corner_radius
+dimen subtitle_outline_width
+dimen subtitle_shadow_offset
+dimen subtitle_shadow_radius
 dimen test_mtrl_calendar_day_cornerSize
 dimen tooltip_corner_radius
 dimen tooltip_horizontal_padding
@@ -1633,13 +1648,15 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable bule
 drawable design_bottom_navigation_item_background
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
-drawable france_flag
+drawable flag_france
+drawable flag_germany
 drawable ic_arrow_down_24dp
 drawable ic_backspace
 drawable ic_calendar
@@ -1648,6 +1665,7 @@ drawable ic_config
 drawable ic_contact_support
 drawable ic_dashboard_black_24dp
 drawable ic_delete
+drawable ic_directions
 drawable ic_help
 drawable ic_home_black_24dp
 drawable ic_launcher_background
@@ -1662,6 +1680,7 @@ drawable ic_play
 drawable ic_repeat
 drawable ic_replay
 drawable ic_week
+drawable initial_help
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
 drawable material_ic_edit_black_24dp
@@ -1691,6 +1710,17 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable p00
+drawable p01
+drawable p02
+drawable p03
+drawable p04
+drawable p05
+drawable p06
+drawable p07
+drawable p08
+drawable p09
+drawable p10
 drawable preference_list_divider_material
 drawable test_custom_background
 drawable tooltip_frame_dark
@@ -1744,6 +1774,7 @@ id accessibility_custom_action_6
 id accessibility_custom_action_7
 id accessibility_custom_action_8
 id accessibility_custom_action_9
+id action0
 id action_bar
 id action_bar_activity_content
 id action_bar_container
@@ -1787,9 +1818,14 @@ id beginning
 id blocking
 id bottom
 id bounce
+id btnAller
+id btnAvoir
 id btnCinco
+id btnDevoir
 id btnDois
 id btnDoisPontos
+id btnEtre
+id btnFaire
 id btnHelp
 id btnInfo
 id btnMonth01
@@ -1809,13 +1845,23 @@ id btnMonthRepeat
 id btnNove
 id btnNumbersStart
 id btnOito
+id btnPartir
+id btnPosHelp
+id btnPosRepete
+id btnPosStart
+id btnPouvoir
 id btnQuatro
 id btnRepete
+id btnSavoir
 id btnSeis
 id btnSete
 id btnTres
 id btnUm
+id btnVenir
+id btnVerbsRepeat
+id btnVerbsStart
 id btnVolta
+id btnVouloir
 id btnWeek01
 id btnWeek02
 id btnWeek03
@@ -1828,6 +1874,7 @@ id btnWeekRepeat
 id btnZero
 id btnZeroZero
 id buttonPanel
+id cancel_action
 id cancel_button
 id center
 id center_horizontal
@@ -1884,6 +1931,7 @@ id easeInOut
 id easeOut
 id edit_query
 id end
+id end_padder
 id enterAlways
 id enterAlwaysCollapsed
 id exitUntilCollapsed
@@ -1896,6 +1944,8 @@ id fill_vertical
 id filled
 id fitToContents
 id fixed
+id flagPinText
+id flagSpinImg
 id flip
 id floating
 id forever
@@ -1918,8 +1968,12 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
-id imageView
 id imageView2
+id imgInitial
+id imgPos01
+id imgPos02
+id imgPos03
+id imgPos04
 id info
 id invisible
 id italic
@@ -1938,6 +1992,7 @@ id linearLayout
 id listMode
 id list_item
 id masked
+id media_actions
 id message
 id middle
 id mini
@@ -1979,6 +2034,7 @@ id navigation_dashboard
 id navigation_header_container
 id navigation_home
 id navigation_notifications
+id navigation_position
 id navigation_settings
 id navigation_time
 id never
@@ -2054,6 +2110,7 @@ id snackbar_text
 id snap
 id snapMargins
 id spacer
+id spinFlag
 id spinner
 id spline
 id split_action_bar
@@ -2069,12 +2126,24 @@ id startHorizontal
 id startVertical
 id staticLayout
 id staticPostLayout
+id status_bar_latest_event_content
 id stop
 id stretch
 id submenuarrow
 id submit_area
 id sw0100
 id sw1000
+id swAller
+id swAvoir
+id swDevoir
+id swDevoir1
+id swEtre
+id swFaire
+id swPartir
+id swPouvoir
+id swSavior
+id swVenir
+id swVouloir
 id switchWidget
 id tabMode
 id tag_accessibility_actions
@@ -2095,7 +2164,6 @@ id textEnd
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
-id textView
 id textView2
 id textView3
 id textView4
@@ -2124,6 +2192,7 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id txtPosTitle
 id txtTip
 id unchecked
 id uniform
@@ -2218,8 +2287,11 @@ layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout expand_button
+layout flag_spinner_item
 layout fragment_home
 layout fragment_month
+layout fragment_position
+layout fragment_verbs
 layout fragment_week
 layout image_frame
 layout mtrl_alert_dialog
@@ -2252,8 +2324,17 @@ layout mtrl_picker_text_input_date
 layout mtrl_picker_text_input_date_range
 layout notification_action
 layout notification_action_tombstone
+layout notification_media_action
+layout notification_media_cancel_action
+layout notification_template_big_media
+layout notification_template_big_media_custom
+layout notification_template_big_media_narrow
+layout notification_template_big_media_narrow_custom
 layout notification_template_custom_big
 layout notification_template_icon_group
+layout notification_template_lines_media
+layout notification_template_media
+layout notification_template_media_custom
 layout notification_template_part_chronometer
 layout notification_template_part_time
 layout preference
@@ -2334,11 +2415,16 @@ string character_counter_pattern
 string chip_text
 string clear_text_end_icon_content_description
 string copy
+string dummy_button
+string dummy_content
 string error_icon_content_description
 string expand_button_title
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
+string french_position_question
+string german_position_question
+string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
@@ -2409,10 +2495,12 @@ string status_bar_notification_info_overflow
 string summary_collapsed_preference_list
 string sync_header
 string sync_title
+string title_activity_fullscreen
 string title_activity_settings
 string title_dashboard
 string title_home
 string title_notifications
+string title_positions
 string title_settings
 string title_time
 string v7_preference_off
@@ -2653,6 +2741,8 @@ style CardView
 style CardView_Dark
 style CardView_Light
 style EmptyTheme
+style FullscreenActionBarStyle
+style FullscreenTheme
 style MaterialAlertDialog_MaterialComponents
 style MaterialAlertDialog_MaterialComponents_Body_Text
 style MaterialAlertDialog_MaterialComponents_Picker_Date_Calendar
@@ -2807,9 +2897,14 @@ style TextAppearance_AppCompat_Widget_Switch
 style TextAppearance_AppCompat_Widget_TextView_SpinnerItem
 style TextAppearance_Compat_Notification
 style TextAppearance_Compat_Notification_Info
+style TextAppearance_Compat_Notification_Info_Media
 style TextAppearance_Compat_Notification_Line2
+style TextAppearance_Compat_Notification_Line2_Media
+style TextAppearance_Compat_Notification_Media
 style TextAppearance_Compat_Notification_Time
+style TextAppearance_Compat_Notification_Time_Media
 style TextAppearance_Compat_Notification_Title
+style TextAppearance_Compat_Notification_Title_Media
 style TextAppearance_Design_CollapsingToolbar_Expanded
 style TextAppearance_Design_Counter
 style TextAppearance_Design_Counter_Overflow
@@ -3172,6 +3267,7 @@ styleable Badge backgroundColor badgeGravity badgeTextColor horizontalOffset max
 styleable BottomAppBar backgroundTint elevation fabAlignmentMode fabAnimationMode fabCradleMargin fabCradleRoundedCornerRadius fabCradleVerticalOffset hideOnScroll paddingBottomSystemWindowInsets paddingLeftSystemWindowInsets paddingRightSystemWindowInsets
 styleable BottomNavigationView backgroundTint elevation itemBackground itemHorizontalTranslationEnabled itemIconSize itemIconTint itemRippleColor itemTextAppearanceActive itemTextAppearanceInactive itemTextColor labelVisibilityMode menu
 styleable BottomSheetBehavior_Layout android_elevation backgroundTint behavior_draggable behavior_expandedOffset behavior_fitToContents behavior_halfExpandedRatio behavior_hideable behavior_peekHeight behavior_saveFlags behavior_skipCollapsed gestureInsetBottomIgnored shapeAppearance shapeAppearanceOverlay
+styleable ButtonBarContainerTheme metaButtonBarButtonStyle metaButtonBarStyle
 styleable ButtonBarLayout allowStacking
 styleable CardView android_minWidth android_minHeight cardBackgroundColor cardCornerRadius cardElevation cardMaxElevation cardPreventCornerOverlap cardUseCompatPadding contentPadding contentPaddingBottom contentPaddingLeft contentPaddingRight contentPaddingTop
 styleable CheckBoxPreference android_summaryOn android_summaryOff android_disableDependentsState disableDependentsState summaryOff summaryOn

@@ -44,28 +44,20 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
-        <ImageView
-            android:id="@+id/imageView"
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            app:layout_constraintTop_toTopOf="parent"
-            app:srcCompat="@drawable/france_flag" />
+        <Spinner
+            android:id="@+id/spinFlag"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
 
-        <TextView
-            android:id="@+id/textView"
-            android:layout_width="0dp"
+        <Space
+            android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:layout_weight="4"
-            android:gravity="start|center_vertical"
-            android:paddingStart="15dp"
-            android:text="le français" />
+            android:layout_weight="1" />
 
         <ImageView
             android:id="@+id/btnInfo"
-            android:layout_width="0dp"
+            android:layout_width="48dp"
             android:layout_height="match_parent"
-            android:layout_weight="1"
             android:contentDescription="about"
             android:scaleType="center"
             app:srcCompat="@drawable/ic_help" />

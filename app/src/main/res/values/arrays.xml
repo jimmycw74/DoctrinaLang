@@ -9,4 +9,92 @@
         <item>reply</item>
         <item>reply_all</item>
     </string-array>
+
+
+    <string-array name="french_months">
+        <item>janvier</item>
+        <item>février</item>
+        <item>mars</item>
+        <item>avril</item>
+        <item>mai</item>
+        <item>juin</item>
+        <item>juillet</item>
+        <item>aout</item>
+        <item>septembre</item>
+        <item>octobre</item>
+        <item>novembre</item>
+        <item>décembre</item>
+    </string-array>
+
+    <string-array name="german_months">
+        <item>Januar</item>
+        <item>Februar</item>
+        <item>März</item>
+        <item>April</item>
+        <item>Mai</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>August</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Dezember</item>
+    </string-array>
+
+    <string-array name="french_week">
+        <item>lundi</item>
+        <item>mardi</item>
+        <item>mercredi</item>
+        <item>jeudi</item>
+        <item>vendredi</item>
+        <item>samedi</item>
+        <item>dimanche</item>
+    </string-array>
+
+    <string-array name="german_week">
+        <item>Montag</item>
+        <item>Dienstag</item>
+        <item>Mittwoch</item>
+        <item>Donnerstag</item>
+        <item>Freitag</item>
+        <item>Samstag</item>
+        <item>Sonntag</item>
+    </string-array>
+
+    <string-array name="french_position">
+        <item>elle est derrière la boîte.</item>
+        <item>elle est sous la boîte.</item>
+        <item>elle est devant la boîte.</item>
+        <item>elle est dans la boîte.</item>
+        <item>elle est sur la boîte.</item>
+        <item>elle est à gauche de la boîte.</item>
+        <item>elle est entre les boîtes.</item>
+        <item>elle est à droite de la boîte.</item>
+        <item>elle est loin de la boîte.</item>
+        <item>elle est à côté de la boîte.</item>
+        <item>elle est prés de la boîte.</item>
+    </string-array>
+
+    <string-array name="german_position">
+        <item>es ist hinter der Box.</item>
+        <item>es ist unter der Box.</item>
+        <item>es ist vor der Box.</item>
+        <item>Es ist in der Box.</item>
+        <item>es ist über die Box.</item>
+        <item>Es befindet sich links von der Box.</item>
+        <item>es ist zwischen den Kisten.</item>
+        <item>Es befindet sich rechts von der Box.</item>
+        <item>es ist weit von der Box entfernt.</item>
+        <item>es ist neben der Box.</item>
+        <item>es ist in der Nähe der Box.</item>
+    </string-array>
+
+    <string name="french_position_question" translatable="false">
+       Où est la théière ?
+    </string>
+
+    <string name="german_position_question" translatable="false">
+        Wo ist die Teekanne?
+    </string>
+
 </resources>

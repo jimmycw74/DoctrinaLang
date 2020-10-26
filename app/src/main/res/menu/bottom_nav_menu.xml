@@ -21,6 +21,11 @@
         android:icon="@drawable/ic_clock"
         android:title="@string/title_time" />
 
+    <item
+        android:id="@+id/navigation_position"
+        android:icon="@drawable/ic_directions"
+        android:title="@string/title_positions" />
+
 
 
 </menu>

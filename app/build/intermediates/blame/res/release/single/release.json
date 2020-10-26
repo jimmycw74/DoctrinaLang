@@ -4,24 +4,16 @@
         "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\ic_calendar.xml"
     },
     {
-        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_home.xml.flat",
-        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\layout\\fragment_home.xml"
-    },
-    {
         "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
         "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
+        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_p08.png.flat",
+        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\p08.png"
+    },
+    {
         "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_math.xml.flat",
         "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\ic_math.xml"
-    },
-    {
-        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_home_black_24dp.xml.flat",
-        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
-    },
-    {
-        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\menu_bottom_nav_menu.xml.flat",
@@ -32,12 +24,104 @@
         "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\layout\\fragment_month.xml"
     },
     {
-        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_play.xml.flat",
-        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\ic_play.xml"
+        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_p04.png.flat",
+        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\p04.png"
     },
     {
         "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_week.xml.flat",
         "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\ic_week.xml"
+    },
+    {
+        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_play.xml.flat",
+        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_p01.png.flat",
+        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\p01.png"
+    },
+    {
+        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_directions.xml.flat",
+        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\ic_directions.xml"
+    },
+    {
+        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_p07.png.flat",
+        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\p07.png"
+    },
+    {
+        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_replay.xml.flat",
+        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\ic_replay.xml"
+    },
+    {
+        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\layout_about_fragment.xml.flat",
+        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\layout\\about_fragment.xml"
+    },
+    {
+        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_web_hi_res_512.png.flat",
+        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\web_hi_res_512.png"
+    },
+    {
+        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_help.xml.flat",
+        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\ic_help.xml"
+    },
+    {
+        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_p00.png.flat",
+        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\p00.png"
+    },
+    {
+        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_home.xml.flat",
+        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_p10.png.flat",
+        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\p10.png"
+    },
+    {
+        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_initial_help.png.flat",
+        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\initial_help.png"
+    },
+    {
+        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_verbs.xml.flat",
+        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\layout\\fragment_verbs.xml"
+    },
+    {
+        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_position.xml.flat",
+        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\layout\\fragment_position.xml"
+    },
+    {
+        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_p03.png.flat",
+        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\p03.png"
     },
     {
         "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
@@ -64,36 +148,28 @@
         "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\ic_clock.xml"
     },
     {
-        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_p06.png.flat",
+        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\p06.png"
     },
     {
-        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_bule.png.flat",
+        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\bule.png"
     },
     {
         "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_repeat.xml.flat",
         "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\ic_repeat.xml"
     },
     {
-        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_notifications_black_24dp.xml.flat",
-        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
-    },
-    {
-        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_replay.xml.flat",
-        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\ic_replay.xml"
-    },
-    {
         "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
         "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
-    },
-    {
         "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\xml_root_preferences.xml.flat",
         "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\xml\\root_preferences.xml"
+    },
+    {
+        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
         "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
@@ -104,44 +180,32 @@
         "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\layout\\fragment_week.xml"
     },
     {
-        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\layout_about_fragment.xml.flat",
-        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\layout\\about_fragment.xml"
-    },
-    {
-        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_help.xml.flat",
-        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\ic_help.xml"
-    },
-    {
-        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_web_hi_res_512.png.flat",
-        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\web_hi_res_512.png"
+        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_p09.png.flat",
+        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\p09.png"
     },
     {
         "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
         "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_p02.png.flat",
+        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\p02.png"
+    },
+    {
         "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_france_flag.png.flat",
         "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\france_flag.png"
     },
     {
-        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\navigation_mobile_navigation.xml.flat",
-        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_p05.png.flat",
+        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\p05.png"
     },
     {
         "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_contact_support.xml.flat",
         "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\drawable\\ic_contact_support.xml"
-    },
-    {
-        "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Jimmy\\git\\DoctrinaLang\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Jimmy\\git\\DoctrinaLang\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_backspace.xml.flat",

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Doctrina_Lang.iml" filepath="$PROJECT_DIR$/.idea/modules/Doctrina_Lang.iml" group="Doctrina_Lang" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Doctrina Lang/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Doctrina_Lang.iml" filepath="$PROJECT_DIR$/.idea/modules/Doctrina_Lang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Doctrina_Lang.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Doctrina_Lang.app.iml" />
     </modules>
   </component>
 </project>

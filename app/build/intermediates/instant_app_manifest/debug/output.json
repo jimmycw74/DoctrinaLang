@@ -10,8 +10,8 @@
       "apkData": {
         "type": "MAIN",
         "splits": [],
-        "versionCode": 4,
-        "versionName": "1.3",
+        "versionCode": 8,
+        "versionName": "1.8",
         "outputFile": "app-debug.apk",
         "fullName": "debug",
         "baseName": "debug",
@@ -21,7 +21,7 @@
       "properties": {
         "packageId": "com.trilema.doctrinalang",
         "split": "",
-        "minSdkVersion": "21"
+        "minSdkVersion": "26"
       }
     }
   ]

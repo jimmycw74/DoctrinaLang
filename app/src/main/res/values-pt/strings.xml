@@ -5,6 +5,8 @@
     <string name="title_notifications">meses</string>
     <string name="title_time">horas</string>
     <string name="title_settings">config</string>
+    <string name="title_positions">posições</string>
+
     <!-- novos -->
     <string name="start">Começar</string>
 
