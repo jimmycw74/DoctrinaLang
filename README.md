@@ -1,2 +1,2 @@
 # DoctrinaLang
-Android App to test listening skills in french
+Android App to test listening skills in french and german.
